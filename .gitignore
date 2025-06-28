@@ -1,0 +1,42 @@
+# Скомпилированные/оптимизированные/DLL файлы 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Расширения C
+*.so
+
+# Распределение/пакеты
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+
+# Файлы VSCode
+.vscode/
+
+# Директории с данными, их нужно будет загружать и подготавливать (raw, frames, augmented, dataset)
+data
+dataset/
+dataset.zip
