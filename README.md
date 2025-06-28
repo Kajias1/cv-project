@@ -44,4 +44,3 @@ cv_project/
 ├── requirements.txt            # все Python-зависимости  
 ├── yolov8n.pt                  # (или yolov11n.pt) веса модели  
 └── README.md
-![results](https://github.com/user-attachments/assets/91eb81da-6c36-4987-895c-a209eaae3665)
